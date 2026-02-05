@@ -6,7 +6,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col">
       <header className="container mx-auto px-4 py-8 sm:py-12 md:py-16">
         <div className="flex items-center gap-3 text-3xl font-bold md:text-4xl">
-          <h1 className="font-headline tracking-tight">Ventmonial</h1>
+          <h1 className="font-headline tracking-tight text-primary">Ventmonial</h1>
         </div>
         <p className="mt-4 max-w-3xl text-base text-muted-foreground md:text-lg">
           For better response, give full details of your project or service, this helps the VentixlabsAI give you outstanding convincing results.
